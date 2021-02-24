@@ -1,1 +1,1 @@
-# France-Alliance.github.io is the URL of the France Alliance Website !
+Welcome to the France Alliance Website !
